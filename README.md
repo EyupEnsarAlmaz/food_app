@@ -1,6 +1,7 @@
 # food_app
 
-A new Flutter project.
+Basic Foods calories app.
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/67228806/171058580-9b1c6b75-c1a2-4cd0-992b-c69558f5d647.gif)
 
 ## Getting Started
 
